@@ -108,7 +108,9 @@ namespace suprascrierea_operatorilor
             Console.WriteLine("a = {0}\nb = {1}\nc = {2}\nd = {3}", a, b, c, d);
             Console.WriteLine();
             Console.WriteLine("a+b = {0}", a + b);
+            Console.WriteLine("d.Suma(c) = {0}", d.Suma(c));
             Console.WriteLine("a*b = {0}", a * b);
+            Console.WriteLine("d.Produs(c) = {0}", d.Produs(c));
             Console.WriteLine("(a+b) == c \"{0}\"", (a + b) == c);
             Console.WriteLine("d != a \"{0}\"", d != a);
 
