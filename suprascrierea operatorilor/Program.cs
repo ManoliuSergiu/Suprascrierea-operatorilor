@@ -15,7 +15,7 @@ namespace suprascrierea_operatorilor
             r = 0;
             i = 0;
         }
-        public C(double parteReala, double parteImaginara) // constructor suprascris pentru a adauga valori predefinite unei variabile de tip compex
+        public C(double parteReala, double parteImaginara) // constructor suprascris pentru a adauga valori predefinite proprietatilor unui obiect de tip compex
         {
             r = parteReala;
             i = parteImaginara;
