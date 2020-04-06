@@ -1,0 +1,6 @@
+C:\Users\MANO\Source\Repos\Suprascrierea-operatorilor\suprascrierea operatorilor\bin\Debug\suprascrierea operatorilor.exe.config
+C:\Users\MANO\Source\Repos\Suprascrierea-operatorilor\suprascrierea operatorilor\bin\Debug\suprascrierea operatorilor.exe
+C:\Users\MANO\Source\Repos\Suprascrierea-operatorilor\suprascrierea operatorilor\bin\Debug\suprascrierea operatorilor.pdb
+C:\Users\MANO\Source\Repos\Suprascrierea-operatorilor\suprascrierea operatorilor\obj\Debug\suprascrierea operatorilor.csprojAssemblyReference.cache
+C:\Users\MANO\Source\Repos\Suprascrierea-operatorilor\suprascrierea operatorilor\obj\Debug\suprascrierea operatorilor.exe
+C:\Users\MANO\Source\Repos\Suprascrierea-operatorilor\suprascrierea operatorilor\obj\Debug\suprascrierea operatorilor.pdb
